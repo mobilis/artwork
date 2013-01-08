@@ -25,7 +25,7 @@
    inkscape:export-ydpi="131"><metadata
    id="metadata3103"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
    id="defs3101" /><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
@@ -35,8 +35,8 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="1920"
-   inkscape:window-height="1036"
+   inkscape:window-width="1440"
+   inkscape:window-height="852"
    id="namedview3099"
    showgrid="false"
    fit-margin-top="10"
@@ -44,7 +44,7 @@
    fit-margin-right="10"
    fit-margin-bottom="10"
    inkscape:zoom="2.2281509"
-   inkscape:cx="80.70509"
+   inkscape:cx="23.482754"
    inkscape:cy="96.517683"
    inkscape:window-x="0"
    inkscape:window-y="0"
@@ -102,38 +102,7 @@
 	
 	
 	
-<rect
-   style="fill:#0f3d7f;fill-opacity:1;fill-rule:evenodd;stroke:none"
-   id="rect3105"
-   width="139.99768"
-   height="196.61171"
-   x="39.998665"
-   y="11.692326"
-   rx="14.330571"
-   inkscape:export-filename="/Users/mcnesium/Downloads/mobilis.png"
-   inkscape:export-xdpi="131.61"
-   inkscape:export-ydpi="131.61" /><rect
-   rx="5.1180611"
-   y="25.519669"
-   x="53.097767"
-   height="156.71576"
-   width="113.79948"
-   id="rect3875"
-   style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
-   inkscape:export-filename="/Users/mcnesium/Downloads/mobilis.png"
-   inkscape:export-xdpi="131.61"
-   inkscape:export-ydpi="131.61" /><rect
-   style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
-   id="rect3877"
-   width="38.076794"
-   height="13.103914"
-   x="90.959106"
-   y="-201.98463"
-   rx="2.7399745"
-   transform="scale(1,-1)"
-   inkscape:export-filename="/Users/mcnesium/Downloads/mobilis.png"
-   inkscape:export-xdpi="131.61"
-   inkscape:export-ydpi="131.61" /><path
+<path
    sodipodi:type="arc"
    style="fill:#0f3d7f;fill-opacity:1;stroke:none"
    id="path3761"
@@ -142,28 +111,28 @@
    sodipodi:rx="39.598999"
    sodipodi:ry="39.598999"
    d="m 82.497913,47.450359 a 39.598999,39.598999 0 1 1 -79.1979977,0 39.598999,39.598999 0 1 1 79.1979977,0 z"
-   transform="matrix(1.0566029,0,0,1.0566029,64.670393,42.964045)"
+   transform="matrix(1.7837243,0,0,1.7837243,33.477639,3.5134116)"
    inkscape:export-filename="/Users/mcnesium/Downloads/mobilis.png"
    inkscape:export-xdpi="131.61"
    inkscape:export-ydpi="131.61" /><rect
    style="fill:#ffffff;fill-opacity:1;stroke:none"
    id="rect3771"
-   width="26.408964"
-   height="28.692825"
-   x="96.79303"
-   y="108.64994"
+   width="44.582794"
+   height="48.438339"
+   x="87.706078"
+   y="114.40231"
    inkscape:export-filename="/Users/mcnesium/Downloads/mobilis.png"
    inkscape:export-xdpi="131.61"
    inkscape:export-ydpi="131.61" /><path
    style="fill:#0f3d7f;fill-opacity:1"
-   d="m 155.91653,88.074022 c -9.72352,4.049832 -19.64676,7.352693 -29.81042,10.080658 1.04611,15.49997 -5.80907,30.35954 -15.84546,41.80244 -9.82269,-11.3123 -16.353064,-26.11559 -15.444686,-41.278357 -11.518471,-2.982807 -22.576567,-7.3118 -33.633096,-11.652876 -0.104059,25.289643 20.064397,47.956923 40.099302,61.515293 -3.803657,5.0685 -18.926306,6.88521 -18.848316,12.28125 11.270066,-9e-5 20.362106,-3.51415 27.823656,-7.02313 7.93572,3.87948 16.75262,6.92473 27.46123,6.94145 0.0373,-4.63336 -13.8443,-6.68299 -18.47906,-12.19957 19.90367,-12.6567 37.53016,-33.08875 39.32806,-57.507706 -0.43086,-2.808014 1.96349,-5.582333 -2.65121,-2.959452 z"
+   d="M 187.51654,79.666676 C 171.1016,86.503477 154.34949,92.079265 137.19152,96.684531 138.95753,122.8511 127.38482,147.93657 110.4417,167.25412 93.859337,148.15704 82.834962,123.16659 84.368458,97.569271 64.923332,92.533789 46.255397,85.225717 27.590107,77.897247 27.414438,120.59044 61.4622,158.85664 95.284506,181.74546 c -6.421216,8.55649 -31.950803,11.6234 -31.819143,20.73283 19.025776,-1.5e-4 34.374676,-5.93248 46.971037,-11.85623 13.39684,6.54922 28.28125,11.69011 46.3592,11.71834 0.063,-7.8219 -23.37152,-11.28202 -31.19578,-20.59494 33.60076,-21.36665 63.35725,-55.8594 66.39241,-97.082729 -0.72736,-4.740402 3.31471,-9.423921 -4.47569,-4.996055 z"
    id="path3072"
    inkscape:connector-curvature="0"
    inkscape:export-filename="/Users/mcnesium/Downloads/mobilis.png"
    inkscape:export-xdpi="131.61"
    inkscape:export-ydpi="131.61"
    sodipodi:nodetypes="cccccccccccc" /><path
-   transform="matrix(0.74124321,0,0,0.74124321,78.19898,57.927973)"
+   transform="matrix(1.2513438,0,0,1.2513438,56.31618,28.775051)"
    d="m 82.497913,47.450359 a 39.598999,39.598999 0 1 1 -79.1979977,0 39.598999,39.598999 0 1 1 79.1979977,0 z"
    sodipodi:ry="39.598999"
    sodipodi:rx="39.598999"
@@ -175,7 +144,7 @@
    inkscape:export-filename="/Users/mcnesium/Downloads/mobilis.png"
    inkscape:export-xdpi="131.61"
    inkscape:export-ydpi="131.61" /><path
-   transform="matrix(0.33442496,0,0,0.33442496,95.651041,77.231644)"
+   transform="matrix(0.56456585,0,0,0.56456585,85.778209,61.36291)"
    d="m 82.497913,47.450359 a 39.598999,39.598999 0 1 1 -79.1979977,0 39.598999,39.598999 0 1 1 79.1979977,0 z"
    sodipodi:ry="39.598999"
    sodipodi:rx="39.598999"
