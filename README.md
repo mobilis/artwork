@@ -1,5 +1,5 @@
-Mobilis XHunt Artwork
-=====================
+Mobilis Artwork
+===============
 
 In this repository we track our artwork like logo creations and other project related graphical work.
 
